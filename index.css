@@ -4,7 +4,6 @@
 }
 
 .main{
-   
     height: 100vh;
 }
 
@@ -13,8 +12,6 @@
     justify-content: space-around;
     padding: 5px 50px;
     height: 70px;
-    
-    
 }
 
 .navLogo{
@@ -31,7 +28,6 @@
 .navLeft{
     display: flex;
     flex-direction: column;
-   
     gap: 20px;
     color: purple;
     position: relative;
@@ -62,12 +58,8 @@
   cursor: pointer;
 }
 
-
-
-
 .body{
     height: 300px;
-    
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -76,7 +68,6 @@
 }
 .text{
     width: 40%;
-    
     position: relative;
     right: 100px;
     display: flex;
@@ -85,7 +76,6 @@
 }
 .img{
     width: 40%;
-  
     position: relative;
     right: 100px;
 }
@@ -101,19 +91,14 @@
 }
 
 .para{
-    
    height: 40vh;
-  
     display: flex;
     justify-content: center;
     flex-direction: column;
-    
-    
 }
 
 .para1{
     width: 50%;
-   
     height: 10vh;
     position: relative;
     left: 350px;
@@ -139,8 +124,6 @@
 
 .imgMain{
     height: 50vh;
-    
-    
 }
 .imgMain img{
     width: 100%;
@@ -188,7 +171,6 @@
     justify-content: center;
     align-items: center;
     gap: 90px;
-   
     position: relative;
     bottom: 60px;
     color: rgb(105, 102, 102);
