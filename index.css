@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+   
+    height: 100vh;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 50px;
+    height: 70px;
+    
+    
+}
+
+.navLogo{
+    height: 72px;
+    position: relative;
+    right: 50px;
+
+}
+.logo{
+    object-fit: cover;
+    height: 72px;
+}
+
+.navLeft{
+    display: flex;
+    flex-direction: column;
+   
+    gap: 20px;
+    color: purple;
+    position: relative;
+    right: 200px;
+}
+
+.navRight{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    left: 100px;
+}
+
+.navRightTop{
+    color: purple;
+}
+.navLeftBottom{
+    display: flex;
+    gap: 20px;
+}
+
+.menu{
+  cursor: pointer;
+}
+
+#menu{
+  cursor: pointer;
+}
+
+
+
+
+.body{
+    height: 300px;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(227, 247, 240);
+    margin-top: 2px;
+}
+.text{
+    width: 40%;
+    
+    position: relative;
+    right: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.img{
+    width: 40%;
+  
+    position: relative;
+    right: 100px;
+}
+.btn1{
+    width: 20%;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #00B3A3;
+    border: none;
+    cursor: pointer;
+}
+
+.para{
+    
+   height: 40vh;
+  
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+
+.para1{
+    width: 50%;
+   
+    height: 10vh;
+    position: relative;
+    left: 350px;
+}
+
+.para2{
+    width: 70%;
+    height: 10vh;
+    position: relative;
+    left: 250px;
+    font-size: 15px;
+    font-weight: 50px;
+}
+.para3{
+    width: 70%;
+    height: 10vh;
+    position: relative;
+    left: 370px;
+    font-size: 15px;
+    font-weight: 50px;
+}
+
+
+
+
+
+
+  
+  
+  
